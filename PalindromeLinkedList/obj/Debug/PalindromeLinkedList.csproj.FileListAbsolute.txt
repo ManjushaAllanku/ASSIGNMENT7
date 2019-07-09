@@ -1,0 +1,7 @@
+C:\cprog\assignment 7\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.exe.config
+C:\cprog\assignment 7\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.exe
+C:\cprog\assignment 7\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.pdb
+C:\cprog\assignment 7\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.csprojAssemblyReference.cache
+C:\cprog\assignment 7\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.csproj.CoreCompileInputs.cache
+C:\cprog\assignment 7\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.exe
+C:\cprog\assignment 7\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.pdb

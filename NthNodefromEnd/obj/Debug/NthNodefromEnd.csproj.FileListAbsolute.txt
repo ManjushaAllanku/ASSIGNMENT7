@@ -1,0 +1,7 @@
+C:\cprog\assignment 7\NthNodefromEnd\bin\Debug\NthNodefromEnd.exe.config
+C:\cprog\assignment 7\NthNodefromEnd\bin\Debug\NthNodefromEnd.exe
+C:\cprog\assignment 7\NthNodefromEnd\bin\Debug\NthNodefromEnd.pdb
+C:\cprog\assignment 7\NthNodefromEnd\obj\Debug\NthNodefromEnd.csprojAssemblyReference.cache
+C:\cprog\assignment 7\NthNodefromEnd\obj\Debug\NthNodefromEnd.csproj.CoreCompileInputs.cache
+C:\cprog\assignment 7\NthNodefromEnd\obj\Debug\NthNodefromEnd.exe
+C:\cprog\assignment 7\NthNodefromEnd\obj\Debug\NthNodefromEnd.pdb

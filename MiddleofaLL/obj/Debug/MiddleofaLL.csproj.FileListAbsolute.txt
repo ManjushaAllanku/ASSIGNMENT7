@@ -1,0 +1,7 @@
+C:\cprog\assignment 7\MiddleofaLL\bin\Debug\MiddleofaLL.exe.config
+C:\cprog\assignment 7\MiddleofaLL\bin\Debug\MiddleofaLL.exe
+C:\cprog\assignment 7\MiddleofaLL\bin\Debug\MiddleofaLL.pdb
+C:\cprog\assignment 7\MiddleofaLL\obj\Debug\MiddleofaLL.csprojAssemblyReference.cache
+C:\cprog\assignment 7\MiddleofaLL\obj\Debug\MiddleofaLL.csproj.CoreCompileInputs.cache
+C:\cprog\assignment 7\MiddleofaLL\obj\Debug\MiddleofaLL.exe
+C:\cprog\assignment 7\MiddleofaLL\obj\Debug\MiddleofaLL.pdb

@@ -1,0 +1,7 @@
+C:\cprog\assignment 7\MergeSorted lists\obj\Debug\MergeSorted lists.csprojAssemblyReference.cache
+C:\cprog\assignment 7\MergeSorted lists\obj\Debug\MergeSorted lists.csproj.CoreCompileInputs.cache
+C:\cprog\assignment 7\MergeSorted lists\bin\Debug\MergeSorted lists.exe.config
+C:\cprog\assignment 7\MergeSorted lists\bin\Debug\MergeSorted lists.exe
+C:\cprog\assignment 7\MergeSorted lists\bin\Debug\MergeSorted lists.pdb
+C:\cprog\assignment 7\MergeSorted lists\obj\Debug\MergeSorted lists.exe
+C:\cprog\assignment 7\MergeSorted lists\obj\Debug\MergeSorted lists.pdb

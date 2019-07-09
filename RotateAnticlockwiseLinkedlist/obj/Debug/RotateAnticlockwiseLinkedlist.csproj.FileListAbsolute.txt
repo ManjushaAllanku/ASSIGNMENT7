@@ -1,0 +1,7 @@
+C:\cprog\assignment 7\RotateAnticlockwiseLinkedlist\bin\Debug\RotateAnticlockwiseLinkedlist.exe.config
+C:\cprog\assignment 7\RotateAnticlockwiseLinkedlist\bin\Debug\RotateAnticlockwiseLinkedlist.exe
+C:\cprog\assignment 7\RotateAnticlockwiseLinkedlist\bin\Debug\RotateAnticlockwiseLinkedlist.pdb
+C:\cprog\assignment 7\RotateAnticlockwiseLinkedlist\obj\Debug\RotateAnticlockwiseLinkedlist.csprojAssemblyReference.cache
+C:\cprog\assignment 7\RotateAnticlockwiseLinkedlist\obj\Debug\RotateAnticlockwiseLinkedlist.csproj.CoreCompileInputs.cache
+C:\cprog\assignment 7\RotateAnticlockwiseLinkedlist\obj\Debug\RotateAnticlockwiseLinkedlist.exe
+C:\cprog\assignment 7\RotateAnticlockwiseLinkedlist\obj\Debug\RotateAnticlockwiseLinkedlist.pdb

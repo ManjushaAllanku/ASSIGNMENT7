@@ -1,0 +1,7 @@
+C:\cprog\assignment 7\SwapElements\bin\Debug\SwapElements.exe.config
+C:\cprog\assignment 7\SwapElements\bin\Debug\SwapElements.exe
+C:\cprog\assignment 7\SwapElements\bin\Debug\SwapElements.pdb
+C:\cprog\assignment 7\SwapElements\obj\Debug\SwapElements.csprojAssemblyReference.cache
+C:\cprog\assignment 7\SwapElements\obj\Debug\SwapElements.csproj.CoreCompileInputs.cache
+C:\cprog\assignment 7\SwapElements\obj\Debug\SwapElements.exe
+C:\cprog\assignment 7\SwapElements\obj\Debug\SwapElements.pdb

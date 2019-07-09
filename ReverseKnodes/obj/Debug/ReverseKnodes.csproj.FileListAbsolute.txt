@@ -1,0 +1,7 @@
+C:\cprog\assignment 7\ReverseKnodes\bin\Debug\ReverseKnodes.exe.config
+C:\cprog\assignment 7\ReverseKnodes\bin\Debug\ReverseKnodes.exe
+C:\cprog\assignment 7\ReverseKnodes\bin\Debug\ReverseKnodes.pdb
+C:\cprog\assignment 7\ReverseKnodes\obj\Debug\ReverseKnodes.csprojAssemblyReference.cache
+C:\cprog\assignment 7\ReverseKnodes\obj\Debug\ReverseKnodes.csproj.CoreCompileInputs.cache
+C:\cprog\assignment 7\ReverseKnodes\obj\Debug\ReverseKnodes.exe
+C:\cprog\assignment 7\ReverseKnodes\obj\Debug\ReverseKnodes.pdb

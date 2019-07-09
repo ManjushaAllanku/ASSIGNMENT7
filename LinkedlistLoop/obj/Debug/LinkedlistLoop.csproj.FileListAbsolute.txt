@@ -1,0 +1,7 @@
+C:\cprog\assignment 7\LinkedlistLoop\obj\Debug\LinkedlistLoop.csprojAssemblyReference.cache
+C:\cprog\assignment 7\LinkedlistLoop\obj\Debug\LinkedlistLoop.csproj.CoreCompileInputs.cache
+C:\cprog\assignment 7\LinkedlistLoop\bin\Debug\LinkedlistLoop.exe.config
+C:\cprog\assignment 7\LinkedlistLoop\bin\Debug\LinkedlistLoop.exe
+C:\cprog\assignment 7\LinkedlistLoop\bin\Debug\LinkedlistLoop.pdb
+C:\cprog\assignment 7\LinkedlistLoop\obj\Debug\LinkedlistLoop.exe
+C:\cprog\assignment 7\LinkedlistLoop\obj\Debug\LinkedlistLoop.pdb
